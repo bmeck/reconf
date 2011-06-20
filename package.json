@@ -2,7 +2,7 @@
   "name" : "reconf",
   "author" : "bradleymeck",
   "description" : "Recursive configuration file management with defaults and overrides for nconf.",
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "dependencies" : {
     "nconf" : ">= 0.1.2",
     "optimist" : ">= 0.2.4"
